@@ -36,5 +36,5 @@
 <p>
  - <a href="https://www.linkedin.com/in/subodh-tiwari/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Subodh Tiwari-blue?style=flat-square&logo=linkedin"></a>
   </br>
-- <a href="mailto:subodhtiwari360@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Subodh Tiwari-blue?style=flat-square&logo=gmail"></a>
+-  &nbsp; <a href="mailto:subodhtiwari360@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Subodh Tiwari-blue?style=flat-square&logo=gmail"></a>
 </p>
